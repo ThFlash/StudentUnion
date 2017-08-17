@@ -42,6 +42,6 @@ Indicate your attendance by inserting the following marks into the column corres
 | Tse Hau Yat    |      |      |      |      |      |      |      |      |      |      |
 | Cheung Ho Hin  |*     |*     |*     |*     |*     |*     |*     |*     |*     |*     |
 | Kwan Chi Chung |      |      |      |      |      |      |      |      |      |      |
-| Lau Chun Ho    |      |      |      |      |      |      |      |      |      |      |
+| Lau Chun Ho    |*     |*     |      |      |      |      |      |      |      |      |
 | Lai Hiu Ching  |      |      |      |      |      |      |      |      |      |      |
 | Tsang Lok Yiu  |*     |*     |      |      |      |*     |      |      |      |     |
